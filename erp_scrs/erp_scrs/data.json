@@ -1,0 +1,24 @@
+{
+    "students": {
+        "101": {
+            "sid": "101",
+            "name": "raju",
+            "dept": "cse",
+            "courses": []
+        },
+        "102": {
+            "sid": "102",
+            "name": "hin",
+            "dept": "ece",
+            "courses": []
+        }
+    },
+    "courses": {
+        "254": {
+            "cid": "254",
+            "name": "python",
+            "capacity": 45,
+            "enrolled": []
+        }
+    }
+}
